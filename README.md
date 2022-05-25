@@ -14,6 +14,6 @@ O objetivo é utilizar diversas funcionalidades da biblioteca Pandas para explor
 
 <p>
   <ul>
-    <li> Aula 1: Tratamento de dados e primeiros gráficos </li>
+    <li> Aula 2: Tratamento de dados e primeiros gráficos </li>
   </ul>
 </p>
