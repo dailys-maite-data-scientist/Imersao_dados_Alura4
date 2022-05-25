@@ -8,7 +8,7 @@ O objetivo é utilizar diversas funcionalidades da biblioteca Pandas para explor
 
 <p>
   <ul>
-    <li> Aula 1: Seu primeiro colab com Python e Pandas </li>
+    <li> Aula 1: Seu primeiro notebook com Python e Pandas </li>
   </ul>
 </p>
 
