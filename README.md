@@ -11,3 +11,9 @@ O objetivo é utilizar diversas funcionalidades da biblioteca Pandas para explor
     <li> Aula 1: Seu primeiro colab com Python e Pandas </li>
   </ul>
 </p>
+
+<p>
+  <ul>
+    <li> Aula 1: Tratamento de dados e primeiros gráficos </li>
+  </ul>
+</p>
